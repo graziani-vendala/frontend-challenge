@@ -4,13 +4,17 @@ Este teste tem por objetivo testar as habilidades da utilização de Vue.js cone
 
 # O que você precisa fazer
 
-1 - Você deve desenvolver uma interface que conecte na API do Mercado Livre e busque informações das categorias e quais são as pesquisas mais relevantes dentro de cada categoria. Esta interface deve mostrar toda a árvore das categorias do ML.
+1 - Você deve desenvolver uma interface que conecte na API do Mercado Livre e busque informações das categorias e quais são as pesquisas mais relevantes dentro de cada categoria. *Esta interface deve mostrar toda a árvore das categorias do ML.
 
 2 - Você deve desenvolver uma interface que busque através de uma palavra qual seria a melhor categoria para se cadastrar o produto.
 
 # Seria legal se você fizesse
 
-Utilização de websocket.
+Alguma metodologia para definição e organização do seu código CSS
+
+# O que nós não gostaríamos
+
+Descobrir que não foi você quem fez seu teste ou que copiou parte de código de terceiros
 
 # No mais...
 
