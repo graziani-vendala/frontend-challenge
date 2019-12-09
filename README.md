@@ -1,4 +1,4 @@
-##Teste Vaga Front-end Pleno##
+#Teste Vaga Front-end Pleno
 
 Este teste tem por objetivo testar as habilidades da utilização de Vue.js conectando com API externa. 
 
